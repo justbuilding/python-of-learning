@@ -1,1 +1,1 @@
-This is for python learning.
+This is for recordingg learning of python.
